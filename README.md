@@ -1,4 +1,4 @@
-Master's Thesis on **Tr[L+] as a Percolation Signature for Random Geometric Graphs** under the supervision of Dr. Gunnar Pruessner and Emir Sezik.
+Master's Thesis on [Tr[L+] as a Percolation Signature for Random Geometric Graphs](https://github.com/raahweng/Random-Geometric-Graphs/blob/main/Thesis.pdf) under the supervision of Dr. Gunnar Pruessner and Emir Sezik.
 
 *Random Geometric Graphs (RGGs) model spatially embedded networks, where edges form
  based on proximity of nodes. In the thermodynamic limit, as the connection radius increases,
