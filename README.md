@@ -13,5 +13,5 @@ cian, which belongs to an ensemble of Euclidean Random Matrices. This thesis add
  of its ensemble average, formulate a motif expansion for the spectral density of sparse RGGs,
  and investigate crossover behaviour in the soft kernel case.*
 
- ![torus](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/raahweng/Random-Geometric-Graphs/blob/main/torus%20perc.png))
+ ![torus](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/raahweng/Random-Geometric-Graphs/blob/main/torus%20perc.png)
 
