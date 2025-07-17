@@ -7,7 +7,7 @@ Master's Thesis on [Tr[L+] as a Percolation Signature for Random Geometric Graph
  gap by introducing a principled extension of the Kirchhoff index, a graph invariant based on
  effective resistance, to disconnected graphs. We demonstrate that this observable diverges at
  the percolation transition, and extract critical parameters from its finite-size scaling, matching
- knownvalues. We then use tools from Random Matrix Theory to derive an analytical expression
+ known values. We then use tools from Random Matrix Theory to derive an analytical expression
  of its ensemble average, formulate a motif expansion for the spectral density of sparse RGGs,
  and investigate crossover behaviour in the soft kernel case.*
 
